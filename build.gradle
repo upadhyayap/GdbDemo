@@ -7,6 +7,4 @@ repositories {
 dependencies {
     compile 'com.craigburke.document:core:0.4.7'
     compile 'com.craigburke.document:pdf:0.4.7'
-    runtime 'com.craigburke.document:core:0.4.7'
-    runtime 'com.craigburke.document:pdf:0.4.7'
 }
